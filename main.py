@@ -6,7 +6,7 @@ import os
 import datetime
 
 # Load your OpenAI API key
-models.OpenAI.api_key = "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"
+models.OpenAI.api_key = "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"
 # or from environment variable:
 # models.OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 
